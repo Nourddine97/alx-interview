@@ -13,8 +13,3 @@ if __name__ == "__main__":
         [0, 0, 0, 0, 0, 0]
     ]
     print(island_perimeter(grid))
-
-guillaume@ubuntu:~/0x09$ 
-guillaume@ubuntu:~/0x09$ ./0-main.py
-12
-guillaume@ubuntu:~/0x09$ 
